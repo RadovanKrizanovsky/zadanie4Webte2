@@ -1,0 +1,7 @@
+API:
+Google Maps API
+Google Autocomplete API
+Geocoding API
+Open meteo API
+Google Places API
+Geonames API
